@@ -8,6 +8,6 @@
 1. If Pennsylvania keeps counting and doesn't stop, they'll hit zero vote differential around 9am ET.
 2. For Georgia it should be before 5am ET.
 3. Arizona could be a while.
-4. Nevada ¯\_(ツ)_/¯
+4. Nevada ¯\\\_(ツ)\_/¯
 
 ![](vote_differences_pandas_code.png)
